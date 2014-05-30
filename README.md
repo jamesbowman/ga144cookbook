@@ -1,4 +1,4 @@
 ga144cookbook
 =============
 
-A cookbook for GA144
+Add your cooks to the [wiki](https://github.com/jamesbowman/ga144cookbook/wiki).
